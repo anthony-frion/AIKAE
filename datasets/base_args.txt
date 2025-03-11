@@ -1,7 +1,8 @@
-﻿{
+{
   "is_training": 1,
   "train_only": false,
-  "model": "DLinear",
+  "model_id": "Electricity_336_96",
+  "model": "DLinear_Stochastic",
   "data": "custom",
   "root_path": "./dataset/",
   "data_path": "electricity.csv",
@@ -9,7 +10,7 @@
   "target": "OT",
   "freq": "h",
   "checkpoints": "./checkpoints/",
-  "seq_len": 96,
+  "seq_len": 336,
   "label_len": 48,
   "pred_len": 96,
   "individual": false,
