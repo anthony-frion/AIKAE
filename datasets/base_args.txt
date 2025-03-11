@@ -15,11 +15,7 @@
   "enc_in": 321,
   "dec_in": 7,
   "c_out": 7,
-  "d_model": 512,
-  "n_heads": 8,
-  "e_layers": 2,
-  "d_layers": 1,
   "d_ff": 2048,
   "factor": 1,
-  "batch_size": 16,
+  "batch_size": 16
 }
